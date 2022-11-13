@@ -1,5 +1,5 @@
 class LinkedList
 {
     public name:string="ffffdasdfsasfaffgfgfdfgfff";
-    public age:number= 444
+    public age:number= 444;
 }
